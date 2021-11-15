@@ -1,4 +1,4 @@
-#Welcome to the PIP for CMD project!
+# Welcome to the PIP for CMD project!
 ## What is PIP for CMD?
 
 **PIP for CMD** is a Python package that helps you with the pip package.
@@ -38,4 +38,4 @@ choose which function you want to use.
 
 General questions and discussions can take place on the [PIP for CMD mailing list](https://groups.google.com/forum/?fromgroups#!forum/pydatahttps://groups.google.com/u/6/g/pipforcmd).
 
-Thats it!
+### Thats it!
